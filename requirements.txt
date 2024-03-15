@@ -1,0 +1,7 @@
+python-docx==1.1.0
+Flask==3.0.2
+newspaper3k==0.2.8
+python-dotenv==1.0.1
+requests==2.31.0
+selenium==4.17.2
+zipfile36==0.1.3
